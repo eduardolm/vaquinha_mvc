@@ -9,4 +9,3 @@ O projeto base foi desenvolvido com o intuito de exemplificar os diferentes tipo
  + .NET Core 3.1
  + XUnit
  + Github
- + Selenium
